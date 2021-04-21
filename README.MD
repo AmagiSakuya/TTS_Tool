@@ -39,3 +39,11 @@
 ```
 TTS_Tool.exe -speak 你的话语
 ```
+
+## 关于我
+
+[新浪微博](https://weibo.com/233742343/)
+
+[bilibili](https://space.bilibili.com/259362/)
+
+[Twitter](https://twitter.com/Sakuya_fm)
